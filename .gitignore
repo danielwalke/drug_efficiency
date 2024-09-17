@@ -1,3 +1,6 @@
 *.csv
 *xlsx
 push.sh
+results/
+all_features/
+potentially_useful_data/
